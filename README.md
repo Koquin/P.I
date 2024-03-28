@@ -16,5 +16,3 @@ Assista ao vídeo de apresentação do projeto [aqui](https://drive.google.com/f
 
 4. Após a instalação das dependências, execute o projeto com `npm start`
 
-
-Por mim eu daria 10 para todos os alunos do grupo, sinceramente o trabalho foi muito bem distribuido. Então 10 para todos, mas se não for 10, então que seja a mesma nota para todos.
